@@ -39,7 +39,7 @@ const Footer = () => {
               <img
                 key={index}
                 src={profile.img}
-                alt={profile.id}
+                alt={profile.img}
                 width={20}
                 height={20}
               />
